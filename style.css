@@ -1,0 +1,13 @@
+div{
+    background-color: red;
+    width: 200px;
+    height: 400px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.blueBigBold{
+    color: blue;
+    font-size: 36px;
+    font-weight: 900;
+}
